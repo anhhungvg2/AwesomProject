@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "373162759153",
+    "project_id": "androidk50",
+    "storage_bucket": "androidk50.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:373162759153:android:faa8adaa146c70dcd0ea50",
+        "android_client_info": {
+          "package_name": "com.awesomeproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "373162759153-psaqgl2e25ueb3at1etqjnpcs7fka8o1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWsHAOfYv8TSjHgJo7EdY9aDjw3gtQP_0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "373162759153-psaqgl2e25ueb3at1etqjnpcs7fka8o1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:373162759153:android:cbfce45635b6955bd0ea50",
+        "android_client_info": {
+          "package_name": "com.jadroid.messenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "373162759153-psaqgl2e25ueb3at1etqjnpcs7fka8o1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWsHAOfYv8TSjHgJo7EdY9aDjw3gtQP_0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "373162759153-psaqgl2e25ueb3at1etqjnpcs7fka8o1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
